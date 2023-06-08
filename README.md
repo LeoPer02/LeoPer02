@@ -1,16 +1,60 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/LeoPer02/LeoPer02/assets/101013606/cad0d6d4-3f95-401d-aea0-8757d3e5c9c1" class="center" width="128" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=LeoPer02">
+</p>
 
-<!--
-**LeoPer02/LeoPer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## Hi there 👋
+
+### My name is Leandro Pereira.
+
+### I'm currently studying Computer Science at the Faculty of Science of the University of Porto, Portugal.
+
+### My main interest is ***Cybersecurity*** 💻 
+
+<br/>
+
+---
+
+<br/>
+
+## 🔥 Skills
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,mysql,java,js,haskell,bash)](https://skillicons.dev)
+
+<br/>
+
+---
+
+<br/>
+
+## 🏀 Hobbies :
+
+- 🏴 Cyber Security Capture the Flag (CTFs) 
+- ⌨️ Playing Video Games
+- 🎵 Listenning to Music
+- 🏊‍♂️ Swimming
+
+<br/>
+
+---
+
+<br/>
+
+## ℹ️ Some extra information
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoPer02&show_icons=true&theme=blueberry) &nbsp; &nbsp; &nbsp; &nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeoPer02&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  &nbsp;
+
+<br/>
+
+---

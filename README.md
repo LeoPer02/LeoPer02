@@ -27,7 +27,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,mysql,java,js,haskell,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,bash,java,js,mysql,haskell,php)](https://skillicons.dev)
 
 <br/>
 
@@ -52,8 +52,9 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoPer02&show_icons=true&theme=blueberry) &nbsp; &nbsp; &nbsp; &nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeoPer02&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  &nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoPer02&show_icons=true&theme=blueberry)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeoPer02&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 

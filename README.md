@@ -13,7 +13,7 @@
 
 ### My name is Leandro Pereira.
 
-### I'm currently studying Computer Science at the Faculty of Science of the University of Porto, Portugal.
+### I'm currently doing my Masters in Information Security at the Faculty of Science of the University of Porto, Portugal.
 
 ### My main interest is ***Cybersecurity*** 💻 
 
